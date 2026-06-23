@@ -1,7 +1,12 @@
 #pragma once
 
+#ifndef ENABLE_TIMING_TUNER_SCENE
 #define ENABLE_TIMING_TUNER_SCENE
+#endif
+
+#ifndef ENABLE_SUB_DECODE_SCENE
 #define ENABLE_SUB_DECODE_SCENE
+#endif
 
 #define ENABLE_EMULATE_FEATURE
 
